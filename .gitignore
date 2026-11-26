@@ -1,0 +1,7 @@
+.venv/
+.uv-cache/
+__pycache__/
+.ipynb_checkpoints/
+/hw1/ml-1m/
+/hw1/ml-latest-small/
+
